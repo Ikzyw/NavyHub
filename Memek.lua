@@ -1,3 +1,5 @@
+-- nga ts is cursedsaken ui..
+
 local cloneref = (cloneref or clonereference or function(instance) return instance end)
 
 local HttpService = cloneref(game:GetService("HttpService"))
